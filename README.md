@@ -25,6 +25,9 @@
 </ul>
 
 ###
+<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=adarshkrsingh07.adarshkrsingh07&left_color=blueviolet&right_color=black&left_text=Profile%20Visits"  /><br>
+
+###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" height="30" alt="c logo"  />
