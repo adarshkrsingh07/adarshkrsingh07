@@ -16,7 +16,13 @@
 
 ###
 
-<p align="left">🔭 I’m currently learning Frontend Development.<br>👯 I’m looking to collaborate on Some Projects.<br>📫 How to reach me:adarshkrdixit@gmail.com<br>⚡ Fun fact: For loop tried flirting with semicolon; ended up stuck in an infinite loop</p>
+<ul>
+<p align="left">
+  <li>🔭 I’m currently learning <b>Frontend Development.</b><br></li>
+  <li>👯 I’m looking to collaborate on <b>Some Projects</b>.<br></li>
+  <li>📫 How to reach me:<a href="mailto:adarshkrdixit@gmail.com">adarshkrdixit@gmail.com</a><br></li>
+  <li>⚡ Fun fact: For loop tried flirting with semicolon; ended up stuck in an infinite loop</p></li>
+</ul>
 
 ###
 
@@ -57,9 +63,33 @@
 
 ###
 
+<p align="left"></p>
+
+###
+
+<p align="left"></p>
+
+###
+
+<p align="left"></p>
+
+###
+
+<p align="left"></p>
+
+###
+
+<p align="left"></p>
+
+###
+
+<h3 align="left">Some Stats:-</h3>
+
+###
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=adarshkrsingh07&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=codeSTACKr&locale=en&hide_border=true" height="200" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adarshkrsingh07&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=codeSTACKr&hide_border=true" height="250" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adarshkrsingh07&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=codeSTACKr&hide_border=true" height="200" alt="languages graph"  />
 </div>
 
 ###
