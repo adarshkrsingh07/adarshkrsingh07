@@ -15,14 +15,10 @@
 <img align="right" height="250" src="https://github.com/adarshkrsingh07/Pract_Sem04/assets/123314058/7c0ad47f-57e7-4957-b78d-a2851a3f6830"  />
 
 ###
-<ul>
-<p align="left">
-<li>🔭 I’m currently learning <b>Frontend Development.</b></li>
-<li>👯 I’m looking to collaborate on <b>Some Projects.</b></li>
-<li>📫 How to reach me:<a href="mailto:adarshkrdixit@gmail.com">adarshkrdixit@gmail.com</a></li>
-<li>⚡ Fun fact: For loop tried flirting with semicolon; ended up stuck in an infinite loop.</li>
-  </p>
-</ul>
+
+<p align="left">🔭 I’m currently learning Frontend Development.<br>👯 I’m looking to collaborate on Some Projects.<br>📫 How to reach me:adarshkrdixit@gmail.com<br>⚡ Fun fact: For loop tried flirting with semicolon; ended up stuck in an infinite loop</p>
+
+###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" height="30" alt="c logo"  />
@@ -62,8 +58,8 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adarshkrsingh07&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=codeSTACKr&locale=en&hide_border=true" height="161" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adarshkrsingh07&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=codeSTACKr&hide_border=true" height="161" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=adarshkrsingh07&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=codeSTACKr&locale=en&hide_border=true" height="200" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adarshkrsingh07&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=codeSTACKr&hide_border=true" height="200" alt="languages graph"  />
 </div>
 
 ###
