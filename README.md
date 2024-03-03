@@ -20,7 +20,7 @@
 <p align="left">
   <li>🔭 I’m currently learning <b>Frontend Development.</b><br></li>
   <li>👯 I’m looking to collaborate on <b>Some Projects</b>.<br></li>
-  <li>📫 How to reach me:<a href="mailto:adarshkrdixit@gmail.com">adarshkrdixit@gmail.com</a><br></li>
+  <li>📫 How to reach me:   <a href="mailto:adarshkrdixit@gmail.com">adarshkrdixit@gmail.com</a><br></li>
   <li>⚡ Fun fact: For loop tried flirting with semicolon; ended up stuck in an infinite loop</p></li>
 </ul>
 
