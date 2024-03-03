@@ -12,7 +12,7 @@
 
 ###
 
-<img align="right" height="290" src="https://github.com/adarshkrsingh07/Pract_Sem04/assets/123314058/7c0ad47f-57e7-4957-b78d-a2851a3f6830"  />
+<img align="right" height="300" src="https://github.com/adarshkrsingh07/Pract_Sem04/assets/123314058/7c0ad47f-57e7-4957-b78d-a2851a3f6830"  />
 
 ###
 
