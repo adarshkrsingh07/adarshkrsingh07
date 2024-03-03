@@ -51,7 +51,7 @@
 </div>
 
 ###
-
+<h3 align="left">☎️Get in touch with me:</h3>
 <div align="left">
   <a href="www.linkedin.com/in/adarsh-kumar-singh31" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo"  />
