@@ -12,7 +12,7 @@
 
 ###
 
-<img align="right" height="250" src="https://github.com/adarshkrsingh07/Pract_Sem04/assets/123314058/7c0ad47f-57e7-4957-b78d-a2851a3f6830"  />
+<img align="right" height="290" src="https://github.com/adarshkrsingh07/Pract_Sem04/assets/123314058/7c0ad47f-57e7-4957-b78d-a2851a3f6830"  />
 
 ###
 
@@ -59,7 +59,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=adarshkrsingh07&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=codeSTACKr&locale=en&hide_border=true" height="200" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adarshkrsingh07&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=codeSTACKr&hide_border=true" height="200" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adarshkrsingh07&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=codeSTACKr&hide_border=true" height="250" alt="languages graph"  />
 </div>
 
 ###
