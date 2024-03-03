@@ -24,8 +24,6 @@
   <li>⚡ Fun fact: For loop tried flirting with semicolon; ended up stuck in an infinite loop</p></li>
 </ul>
 
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" height="30" alt="c logo"  />
   <img width="12" />
