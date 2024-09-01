@@ -27,7 +27,6 @@
 </ul>
 
 ###
-<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=adarshkrsingh07.adarshkrsingh07&left_color=blueviolet&right_color=black&left_text=Profile%20Visits"  /><br>
 
 ###
 <h3 align="left">🛠 Language and tools:</h3>
