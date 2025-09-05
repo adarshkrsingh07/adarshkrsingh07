@@ -1,6 +1,7 @@
 <div align="center">
-  <img height="200" src="https://i.ibb.co/Jx1BgpQ/Screenshot-2024-03-16-194801.png"  />
+  <img height="200" src="https://github.com/adarshkrsingh07/adarshkrsingh07/blob/main/Devops.png" alt="DevOps Logo" />
 </div>
+
 
 ###
 
