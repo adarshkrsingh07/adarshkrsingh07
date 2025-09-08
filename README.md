@@ -11,7 +11,7 @@
 
 ###
 
-<h3 align="left">I am a passionate college student from India, currently immersed in pursuing my Bachelor's Degree with a specialization in DevOps from Chandigarh University🎓. My journey in the tech industry is driven by an insatiable curiosity, propelling me to explore various fields and understand the intricate workings of the technology that surrounds me.</h3>
+<h3 align="left">I am a passionate college student from India, currently immersed in pursuing my Bachelor's Degree in Computer Science engineering with a specialization in DevOps from Chandigarh University🎓. My journey in the tech industry is driven by an insatiable curiosity, propelling me to explore various fields and understand the intricate workings of the technology that surrounds me.</h3>
 
 ###
 
